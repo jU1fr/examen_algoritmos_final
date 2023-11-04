@@ -1,0 +1,4 @@
+Nombre del estudiante: Leonidad
+Notas: 52.0, 63.0, 85.0, 15.0
+Promedio: 53.75
+
